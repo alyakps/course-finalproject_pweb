@@ -1,0 +1,7 @@
+[build]
+  publish = "E:\.Kuliah\.Semester 5\Pweb\Pertemuan 15 fix"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
